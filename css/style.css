@@ -41,11 +41,12 @@ h3 {
 
 
 
-/*"The Neurotic New Yorker"*/#woody {
+/*"The Neurotic New Yorker"*/
+#woody {
   padding-top: 55.5px;
   padding-bottom: 55.5px;
-  padding-left: 32.5px;
-  padding-right: 32.5px;
+  padding-left: 55.5px;
+  padding-right: 55.5px;
   background-color: white;
 #newyork {
   border: 15px solid red;
@@ -53,10 +54,29 @@ h3 {
 
 
 /*"The Art History Major"*/
+#warhol {
+  height: 300px;
+}
+
+#picasso {
+  height: 300px;
+}
 
 
 
 
 
 /*"Pop Culture Fanatic"*/
+#mj {
+  height: 200px;
+ margin-left: auto;
+  margin-right: auto;
+   border: 7px solid black;
+  }
 
+#beyonce {
+  height: 300px;
+ margin-left: auto;
+  margin-right: auto;
+ border: 10px solid purple;
+  }
