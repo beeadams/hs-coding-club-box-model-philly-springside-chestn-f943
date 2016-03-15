@@ -32,7 +32,8 @@ h3 {
   background: grey;
 }
 
-/*"The Classy Roommate"*/#audrey {
+/*"The Classy Roommate"*/
+#audrey {
   margin-left: auto;
   margin-right: auto;
   display: block;
@@ -48,6 +49,9 @@ h3 {
   padding-left: 55.5px;
   padding-right: 55.5px;
   background-color: white;
+  border: 15px solid red;
+}
+
 #newyork {
   border: 15px solid red;
 }
@@ -62,21 +66,26 @@ h3 {
   height: 300px;
 }
 
+.double {
+  border: 20px solid navy;
+  text-align: center;
+  background-color: white;
+}
 
 
 
-
-/*"Pop Culture Fanatic"*/
 #mj {
   height: 200px;
- margin-left: auto;
+  display: block;
+  margin-left: auto;
   margin-right: auto;
-   border: 7px solid black;
-  }
+  border: 7px solid black;
+}
 
 #beyonce {
-  height: 300px;
- margin-left: auto;
+  height: 200px;
+  display: block;
+  margin-left: auto;
   margin-right: auto;
- border: 10px solid purple;
-  }
+  border: 10px solid purple;
+}
